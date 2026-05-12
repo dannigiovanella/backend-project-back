@@ -37,7 +37,7 @@ app.get("/", (req, res) => {
 });
 
 
-//START SERVER
+//STARTA SERVER
 
 const PORT = process.env.PORT || 3000;
 
